@@ -72,6 +72,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [B Lab](https://www.bcorporation.net/) – Certifies B Corps that balance profit and purpose.
 - [UN Principles for Responsible Investment](https://www.unpri.org/) – Framework for sustainable investment.
 - [GreenBiz](https://www.greenbiz.com/) – News and analysis at the intersection of business, technology, and sustainability.
+- [EcoDiligence](https://ecodiligence.com/) - Corporate ESG Passport platform and sustainability reporting toolkit for SMEs and supply chains.
 
 ## Sustainable Agriculture & Food Systems
 
